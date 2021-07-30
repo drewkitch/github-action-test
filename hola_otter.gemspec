@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'hola_otter'
-  s.version     = '1.2.0'
+  s.version     = '1.2.1'
   s.summary     = "Hola!"
   s.description = "A simple hello world gem"
   s.authors     = ["Drew Kitch"]
