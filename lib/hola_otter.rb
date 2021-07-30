@@ -1,6 +1,6 @@
 class Hola
   def self.hi
-    puts "Hello world! 1.2.1"
+    puts "Hello world! v1.2"
   end
 end
 
